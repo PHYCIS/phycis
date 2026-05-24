@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👨‍💻 PHYCIS<br><br>> Exploring systems, technology, and modern software engineering with AI-assisted development.<br><br>## 🚀 About Me<br>- 💡 Passionate about system architecture & programming<br>- 🧠 Learning automation, backend logic, and infrastructure<br>- 🤖 Building alongside AI copilots<br>- 🔍 Focused on understanding how technology works behind the scenes<br>- ⚙️ Interested in APIs, servers, databases, and scalable systems<br><br>## 🛠 Tech Stack<br>```txt<br>JavaScript • Node.js • Python • SQL<br>Linux • Git • APIs • Automation • AI Tools
+# <br>> Exploring systems, technology, and modern software engineering with AI-assisted development.<br><br>## 🚀 About Me<br>- 💡 Passionate about system architecture & programming<br>- 🧠 Learning automation, backend logic, and infrastructure<br>- 🤖 Building alongside AI copilots<br>- 🔍 Focused on understanding how technology works behind the scenes<br>- ⚙️ Interested in APIs, servers, databases, and scalable systems<br><br>## 🛠 Tech Stack<br>```txt<br>JavaScript • Node.js • Python • SQL<br>Linux • Git • APIs • Automation • AI Tools
 
 
 # 💻 Tech Stack:
